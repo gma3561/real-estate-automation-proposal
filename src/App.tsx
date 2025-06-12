@@ -1,1 +1,13 @@
-import React from 'react'; import Header from './components/Header'; import Hero from './components/Hero'; import Overview from './components/Overview'; import SystemArchitecture from './components/SystemArchitecture'; import FunnelAnalysis from './components/FunnelAnalysis'; import Dashboard from './components/Dashboard'; import AutomationFeatures from './components/AutomationFeatures'; import ROIAnalysis from './components/ROIAnalysis'; import Implementation from './components/Implementation'; import Footer from './components/Footer'; function App() { return (<div className='min-h-screen bg-gray-50'><Header /><main><Hero /><Overview /><SystemArchitecture /><FunnelAnalysis /><Dashboard /><AutomationFeatures /><ROIAnalysis /><Implementation /></main><Footer /></div>); } export default App;
+import React from 'react';
+import RealEstateDashboard from './components/RealEstateDashboard';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <RealEstateDashboard />
+    </div>
+  );
+}
+
+export default App;
