@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/real-estate-automation-proposal/static/css/main.cf4a2140.css",
-    "main.js": "/real-estate-automation-proposal/static/js/main.585e2413.js",
-    "static/js/206.e87b336e.chunk.js": "/real-estate-automation-proposal/static/js/206.e87b336e.chunk.js",
+    "main.css": "/real-estate-automation-proposal/static/css/main.c9013643.css",
+    "main.js": "/real-estate-automation-proposal/static/js/main.10720c46.js",
+    "static/js/206.79321bf9.chunk.js": "/real-estate-automation-proposal/static/js/206.79321bf9.chunk.js",
     "index.html": "/real-estate-automation-proposal/index.html"
   },
   "entrypoints": [
-    "static/css/main.cf4a2140.css",
-    "static/js/main.585e2413.js"
+    "static/css/main.c9013643.css",
+    "static/js/main.10720c46.js"
   ]
 }
