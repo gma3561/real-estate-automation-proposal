@@ -1,0 +1,1 @@
+export interface KPIData { label: string; value: string | number; change: string; trend: "up" | "down" | "neutral"; color: string; } export interface FunnelStage { name: string; count: number; percentage: number; target: number; status: "good" | "warning" | "danger"; }
